@@ -19,7 +19,7 @@ semester: Spring 2022
 
 ---
 # Server-side virtualization
-![server-pic](week2/pictures/server-side-pic.png)
+![server-pic](pictures/server-side-pic.png)
 
  * For example:  Our school uses this server-side platform using (VMware ESXi) with (VDI) virtual desktop infrastructure. And provides "Thin clients" and "Zero clients" for students in the classrooms.
 
@@ -35,7 +35,7 @@ semester: Spring 2022
 * Enough Ram
 * Enough Storage
 <br>
-![client-side](week2/pictures/client-side-pic.png)
+![client-side](pictures/client-side-pic.png)
 
 * #### For this course we will be using Type 2 Hypervisor. 
 Which is software that runs on a Host Operating System. Ex:
@@ -54,11 +54,11 @@ Which is software that runs on a Host Operating System. Ex:
 
 ### Installing Ubuntu in Virtualbox
 
-![pic1](week2/pictures/virtualBox-settings-1.png)
-![pic2](week2/pictures/virtualBox-settings-2.png)
-![pic3](week2/pictures/virtualBox-settings-3.png)
-![pic4](week2/pictures/virtualBox-settings-4.png)
-![pic5](week2/pictures/virtualBox-settings-5.png)
+![pic1](pictures/virtualBox-settings-1.png)
+![pic2](pictures/virtualBox-settings-2.png)
+![pic3](pictures/virtualBox-settings-3.png)
+![pic4](pictures/virtualBox-settings-4.png)
+![pic5](pictures/virtualBox-settings-5.png)
 
 ---
 ### What is the raspberry pi
@@ -88,7 +88,7 @@ A Raspberry pi is a low-cost, credit card-size, and single board computer that p
 
 #### Specs of the latest model (Raspberry pi 4 or 400) you can use a screenshot.
 
-![pi4](week2/pictures/Pi4.png)
+![pi4](pictures/Pi4.png)
 
 #### Bulleted listed of 5 projects you can do with a raspberry pi. Use the internet to find this information.
 
@@ -98,4 +98,4 @@ A Raspberry pi is a low-cost, credit card-size, and single board computer that p
 * Security Camera
 * Pi Touchscreen Tablet
 * Photo Frame
-* Wall Mounted Google Calendar*
+* Wall Mounted Google Calendar
