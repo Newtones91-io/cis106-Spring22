@@ -32,8 +32,18 @@ Semester: Spring 2022
 
 3. Bulleted list of the common elements of a desktop environment
 
-
-
+   * Desktop Settings
+   * Display Manager
+   * File Manager
+   * Icons
+   * Favorite Bar
+   * Launcher
+   * Menus
+   * Panels
+   * System Tray
+   * Widgets
+   * Window Manager
+  
  
 #### The Bash Shell
 
