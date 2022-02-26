@@ -46,6 +46,11 @@ Semester: Spring 2022
   
  
 #### The Bash Shell
+  
+   a. What is a shell?
+   b. List different shells
+   c. List some bash shortcuts (no more than 10 and no less than 5)
+   d. List basic commands and their usage
 
 
 
