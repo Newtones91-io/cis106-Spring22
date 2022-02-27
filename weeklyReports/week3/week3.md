@@ -67,6 +67,7 @@ Semester: Spring 2022
 
 3. List some bash shortcuts (no more than 10 and no less than 5) 
    <br>
+   <br>
 `Alt + T` - go to the start of the command line <br>
 `Ctrl + E` - go to the end of the command line <br>
 `Ctrl + K` - delete from cursor to the end to the command line <br>
@@ -76,6 +77,7 @@ Semester: Spring 2022
 `!!` - run last command <br>
 
 4. List basic commands and their usage
+    <br>
     <br>
     `date` - displays the current time and date <br>
     `cal` - displays a calendar of the current month <br>
