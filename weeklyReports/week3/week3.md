@@ -54,7 +54,7 @@ Semester: Spring 2022
   
 1. What is a shell?
 
-> A `Shell` is a program that provides an interface between a user and an operating system kernel.
+    > A `Shell` is a program that provides an interface between a user and an operating system kernel.
 
 2.  List different shells
 
