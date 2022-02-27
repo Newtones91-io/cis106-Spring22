@@ -104,9 +104,13 @@ Semester: Spring 2022
     `apt search "package name"`
 
 * Definition of the following terms:
-    * Package - 
-    * Library -
-    * Repository - 
-Include the screenshot of how to update ubuntu with its explanation (page 6)
+    * Package - are archives that contain binaries of software, configuration files, and information about dependencies. (In Windows, there are commonly .**exe** files)
+    * Library - reusable code that can be used by more than one function or program.
+    * Repository - a large collection of software available for download.
+    * Include the screenshot of how to update ubuntu with its explanation (page 6)
+  <br>
+  ![ubuntuUpdate](package-box.png)
+
+
 
 
