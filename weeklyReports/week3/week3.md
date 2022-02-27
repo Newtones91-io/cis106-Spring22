@@ -60,16 +60,8 @@ Semester: Spring 2022
 * Ksh Shell
 * Fish Shell
 * Csh Shell
-  
-   3.  List some bash shortcuts (no more than 10 and no less than 5)
-
+   3. List some bash shortcuts (no more than 10 and no less than 5) 
    <br>
-   1.
-    <br>
-
-
-    
-
 `Alt + T` - go to the start of the command line <br>
 `Ctrl + E` - go to the end of the command line <br>
 `Ctrl + K` - delete from cursor to the end to the command line <br>
