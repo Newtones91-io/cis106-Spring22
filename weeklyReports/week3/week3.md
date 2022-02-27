@@ -58,11 +58,11 @@ Semester: Spring 2022
    2. List different shells
     <br>
 
-     * Bash Shell
-     * Zsh Shell
-     * Ksh Shell
-     * Fish Shell
-     * Csh Shell
+* Bash Shell
+* Zsh Shell
+* Ksh Shell
+* Fish Shell
+* Csh Shell
     
    3. List some bash shortcuts (no more than 10 and no less than 5)
     <br>
