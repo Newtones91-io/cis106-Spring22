@@ -77,7 +77,7 @@ Semester: Spring 2022
 
    4. List basic commands and their usage
     <br>
- `date`
+    `date`
 
 
 #### Managing Software
