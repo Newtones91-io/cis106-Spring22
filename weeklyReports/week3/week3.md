@@ -37,8 +37,7 @@ Semester: Spring 2022
    * File Manager
    * Icons
    * Favorite Bar
-   * Laun
-   * cher
+   * Launcher
    * Menus
    * Panels
    * System Tray
@@ -52,7 +51,7 @@ Semester: Spring 2022
 
    <br>
    b. List different shells
-   
+
      * Bash Shell
      * Zsh Shell
      * Ksh Shell
