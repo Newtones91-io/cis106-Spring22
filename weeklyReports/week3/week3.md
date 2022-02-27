@@ -73,7 +73,7 @@ Semester: Spring 2022
     `Ctrl + Y`- paste word or text that was cut using one of the deletion shortcuts (such as the one above) after the cursor
     `Ctrl + C` - terminate the command
     `Ctrl + Z` - suspend/stop the command
-    `!!` - run last command
+`!!` - run last command
 
    4. List basic commands and their usage
     <br>
