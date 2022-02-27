@@ -74,7 +74,10 @@ Semester: Spring 2022
 
 4. List basic commands and their usage
     <br>
-    `date`
+    `date` - displays the current time and date
+    `cal` - displays a calendar of the current month
+    `free` - displays the amount of free memory
+    `clear` - clears the screen
 
 
 #### Managing Software
