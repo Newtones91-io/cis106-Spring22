@@ -56,7 +56,7 @@ Semester: Spring 2022
 
     > A `Shell` is a program that provides an interface between a user and an operating system kernel.
 
-2.  List different shells
+2. List different shells
 
     * Bash Shell
     * Zsh Shell
@@ -86,5 +86,7 @@ Semester: Spring 2022
 
 
 #### Managing Software
+
+
 
 
