@@ -93,15 +93,15 @@ Semester: Spring 2022
 
 * Command for installing software
 
-    `sudo apt install "name of package" -y`
+    `sudo apt install "package name" -y`
 
 * Command for removing software
 
-    `sudo apt remove "name of package" -y`
+    `sudo apt remove "package name" -y`
 
 * Command for searching for software
 
-    `apt search "name of package"`
+    `apt search "package name"`
 
 * Definition of the following terms:
     * Package - 
