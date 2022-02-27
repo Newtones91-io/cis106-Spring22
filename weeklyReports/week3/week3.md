@@ -67,14 +67,18 @@ Semester: Spring 2022
    3. List some bash shortcuts (no more than 10 and no less than 5)
     <br>
 
+     * `Alt + T` - go to the start of the command line
+     * `Ctrl + E` - go to the end of the command line
+     * `Ctrl + K` - delete from cursor to the end to the command line
+     * `Ctrl + Y`- paste word or text that was cut using one of the deletion shortcuts (such as the one above) after the cursor
+     * `Ctrl + C` - terminate the command
+     * `Ctrl + Z` - suspend/stop the command
+     * `!!` - run last command
 
    4. List basic commands and their usage
     <br>
 
-     * Ctrl + A - go to the start of the command line
-     * Ctrl + E - go to the end of the command line
-     * Ctrl + K - delete from cursor to the end to the command line
-     * Ctrl + Y + paste word or text that was cut using one of the deletion shortcuts (such as the one above) after the cursor
+     `date`
 
 
 #### Managing Software
