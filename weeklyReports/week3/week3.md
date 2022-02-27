@@ -88,14 +88,14 @@ Semester: Spring 2022
 #### Managing Software
 
 * Command for updating ubuntu
- 
+    <br>
     `sudo apt update; sudo apt upgrade; sudo apt full-upgrade -y`
     <br>
 
     ![ubuntu-update-command-pic](ubuntu-update-command.png)
 
 * Command for installing software
-
+    <br>
     `sudo apt install "package name" -y`<br> <br>
     <br>
     ![install-single-command](install-single-command.png)
@@ -103,8 +103,9 @@ Semester: Spring 2022
 * Command for removing software
     <br>
     `sudo apt remove "package name" -y`<br> <br>
+    <br>
     ![remove-single-command](remove-single-command.png)
-
+    <br>
 * Command for searching for software
     <br>
     `apt search "package name"`<br> <br>
