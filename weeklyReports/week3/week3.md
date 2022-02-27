@@ -37,7 +37,8 @@ Semester: Spring 2022
    * File Manager
    * Icons
    * Favorite Bar
-   * Launcher
+   * Laun
+   * cher
    * Menus
    * Panels
    * System Tray
@@ -48,16 +49,22 @@ Semester: Spring 2022
 #### The Bash Shell
   
    a. What is a shell?
+
    <br>
    b. List different shells
+   
+     * Bash Shell
+     * Zsh Shell
+     * Ksh Shell
+     * Fish Shell
+     * Csh Shell
+  
     <br>
    c. List some bash shortcuts (no more than 10 and no less than 5)
     <br>
    d. List basic commands and their usage
     <br>
 
-
-
-#### Manging Software
+#### Managing Software
 
 
