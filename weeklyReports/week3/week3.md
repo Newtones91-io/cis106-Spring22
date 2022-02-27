@@ -8,7 +8,7 @@ Semester: Spring 2022
 ---
 ## Summary of presentations:
   
-#### Exploring Desktop Environments
+### Exploring Desktop Environments
 
 1. bulleted list of different desktop environments
    * GNOME
@@ -50,7 +50,7 @@ Semester: Spring 2022
    * Window Manager
   
  
-#### The Bash Shell
+### The Bash Shell
   
 1. What is a shell?
 
@@ -85,7 +85,7 @@ Semester: Spring 2022
     `clear` - clears the screen <br>
 
 
-#### Managing Software
+### Managing Software
 
 * Command for updating ubuntu
     <br>
@@ -112,7 +112,7 @@ Semester: Spring 2022
     ![installandremove](install-&-remove-single-command.png)
     <br> <br>
 
-#### Definition of the following terms: <br><br>
+### Definition of the following terms: <br><br>
 
 **Package** - are archives that contain binaries of software, configuration files, and information about dependencies. (In Windows, there are commonly .**exe** files) <br>
 ![ubuntuUpdate](package-box.png) <br>
