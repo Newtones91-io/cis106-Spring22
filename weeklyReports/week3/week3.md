@@ -106,9 +106,9 @@ Semester: Spring 2022
 
     `apt search "package name"`
 
-* Definition of the following terms:
+* Definition of the following terms: <br> 
      **Package** - are archives that contain binaries of software, configuration files, and information about dependencies. (In Windows, there are commonly .**exe** files) <br>
  ![ubuntuUpdate](package-box.png) <br>
-     **Library** - reusable code that can be used by more than one function or program. <br>
+     **Library** - reusable code that can be used by more than one function or program. <br><br>
      **Repository** - a large collection of software available for download.
 
