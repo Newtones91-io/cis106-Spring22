@@ -92,7 +92,6 @@ Semester: Spring 2022
     <br>
 
     ![ubuntu-update-command-pic](ubuntu-update-command.png)
-    ![ubuntu-update-command-pic](ubuntu-update-command-small.png)
 
 * Command for installing software
     <br>
