@@ -90,6 +90,9 @@ Semester: Spring 2022
 * Command for updating ubuntu
  
     `sudo apt update; sudo apt upgrade; sudo apt full-upgrade -y`
+    <br>
+
+    ![ubuntu-update-command-pic](ubuntu-update-command.png)
 
 * Command for installing software
 
@@ -104,13 +107,8 @@ Semester: Spring 2022
     `apt search "package name"`
 
 * Definition of the following terms:
-    * Package - are archives that contain binaries of software, configuration files, and information about dependencies. (In Windows, there are commonly .**exe** files)
-    * Library - reusable code that can be used by more than one function or program.
-    * Repository - a large collection of software available for download.
-    * Include the screenshot of how to update ubuntu with its explanation (page 6)
-  <br>
+    * **Package** - are archives that contain binaries of software, configuration files, and information about dependencies. (In Windows, there are commonly .**exe** files)
   ![ubuntuUpdate](package-box.png)
-
-
-
+    * **Library** - reusable code that can be used by more than one function or program.
+    * **Repository** - a large collection of software available for download.
 
