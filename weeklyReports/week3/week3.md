@@ -52,20 +52,20 @@ Semester: Spring 2022
  
 #### The Bash Shell
   
-   1. What is a shell?
+     1. What is a shell?
 
-   <br>
-   2. List different shells
-    <br>
+     <br>
+     1. List different shells
+      <br>
 
-* Bash Shell
-* Zsh Shell
-* Ksh Shell
-* Fish Shell
-* Csh Shell
-    
-   3. List some bash shortcuts (no more than 10 and no less than 5)
-    <br>
+  * Bash Shell
+  * Zsh Shell
+  * Ksh Shell
+  * Fish Shell
+  * Csh Shell
+      
+     3. List some bash shortcuts (no more than 10 and no less than 5)
+      <br>
 
 `Alt + T` - go to the start of the command line <br>
 `Ctrl + E` - go to the end of the command line <br>
