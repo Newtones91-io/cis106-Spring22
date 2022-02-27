@@ -87,6 +87,20 @@ Semester: Spring 2022
 
 #### Managing Software
 
+* Command for updating ubuntu
+* 
+    `sudo apt update; sudo apt upgrade; sudo apt full-upgrade`
 
+* Command for installing software
+
+    `sudo apt install "name of package"`
+
+* Command for removing software
+* Command for searching for software
+* Definition of the following terms:
+    * Package - 
+    * Library -
+    * Repository - 
+Include the screenshot of how to update ubuntu with its explanation (page 6)
 
 
