@@ -32,8 +32,7 @@ Semester: Spring 2022
     
    > _**DE:**_ A desktop environment is an implementation of the desktop metaphor made of a bundle of programs running on top of a computer operating system, which shares a common GUI, sometimes described as a graphical shell.
    
-<br/>
-<br/>
+
 
 3. Bulleted list of the common elements of a desktop environment
 
@@ -93,6 +92,7 @@ Semester: Spring 2022
     <br>
 
     ![ubuntu-update-command-pic](ubuntu-update-command.png)
+    ![ubuntu-update-command-pic](ubuntu-update-command-small.png)
 
 * Command for installing software
     <br>
