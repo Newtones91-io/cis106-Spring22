@@ -88,7 +88,7 @@ Semester: Spring 2022
 #### Managing Software
 
 * Command for updating ubuntu
-* 
+ 
     `sudo apt update; sudo apt upgrade; sudo apt full-upgrade`
 
 * Command for installing software
