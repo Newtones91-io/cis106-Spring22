@@ -59,7 +59,7 @@ Semester: Spring 2022
 * Zsh Shell
 * Ksh Shell
 * Fish Shell
-* Csh Shell
+* Csh Shell <br>
    3. List some bash shortcuts (no more than 10 and no less than 5) 
    <br>
 `Alt + T` - go to the start of the command line <br>
