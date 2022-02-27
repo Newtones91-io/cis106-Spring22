@@ -96,18 +96,18 @@ Semester: Spring 2022
 
 * Command for installing software
 
-    `sudo apt install "package name" -y`
+    `sudo apt install "package name" -y`<br> <br>
     <br>
     ![install-single-command](install-single-command.png)
 
 * Command for removing software
     <br>
-    `sudo apt remove "package name" -y`
+    `sudo apt remove "package name" -y`<br> <br>
     ![remove-single-command](remove-single-command.png)
 
 * Command for searching for software
     <br>
-    `apt search "package name"`
+    `apt search "package name"`<br> <br>
     ![installandremove](install-&-remove-single-command.png)
 * Definition of the following terms: <br><br>
      **Package** - are archives that contain binaries of software, configuration files, and information about dependencies. (In Windows, there are commonly .**exe** files) <br>
