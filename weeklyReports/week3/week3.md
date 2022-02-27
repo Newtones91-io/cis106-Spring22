@@ -110,9 +110,12 @@ Semester: Spring 2022
     <br>
     `apt search "package name"`<br> <br>
     ![installandremove](install-&-remove-single-command.png)
-* Definition of the following terms: <br><br>
-     **Package** - are archives that contain binaries of software, configuration files, and information about dependencies. (In Windows, there are commonly .**exe** files) <br>
- ![ubuntuUpdate](package-box.png) <br>
-     **Library** - reusable code that can be used by more than one function or program. <br><br>
-     **Repository** - a large collection of software available for download.
+    <br> <br>
+
+#### Definition of the following terms: <br><br>
+
+**Package** - are archives that contain binaries of software, configuration files, and information about dependencies. (In Windows, there are commonly .**exe** files) <br>
+![ubuntuUpdate](package-box.png) <br>
+**Library** - reusable code that can be used by more than one function or program. <br><br>
+**Repository** - a large collection of software available for download.
 
