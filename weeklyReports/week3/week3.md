@@ -55,11 +55,11 @@ Semester: Spring 2022
 1. What is a shell?
 2.  List different shells
 
-* Bash Shell
-* Zsh Shell
-* Ksh Shell
-* Fish Shell
-* Csh Shell <br>
+    * Bash Shell
+    * Zsh Shell
+    * Ksh Shell
+    * Fish Shell
+    * Csh Shell <br>
 
 
 3. List some bash shortcuts (no more than 10 and no less than 5) 
