@@ -72,7 +72,7 @@ Semester: Spring 2022
 `Ctrl + Z` - suspend/stop the command <br>
 `!!` - run last command <br>
 
-   1. List basic commands and their usage
+4. List basic commands and their usage
     <br>
     `date`
 
