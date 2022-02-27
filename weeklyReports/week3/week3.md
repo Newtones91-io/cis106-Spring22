@@ -89,14 +89,20 @@ Semester: Spring 2022
 
 * Command for updating ubuntu
  
-    `sudo apt update; sudo apt upgrade; sudo apt full-upgrade`
+    `sudo apt update; sudo apt upgrade; sudo apt full-upgrade -y`
 
 * Command for installing software
 
-    `sudo apt install "name of package"`
+    `sudo apt install "name of package" -y`
 
 * Command for removing software
+
+    `sudo apt remove "name of package" -y`
+
 * Command for searching for software
+
+    `apt search "name of package"`
+
 * Definition of the following terms:
     * Package - 
     * Library -
