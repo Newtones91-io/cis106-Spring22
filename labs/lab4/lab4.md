@@ -11,7 +11,7 @@ semester: Spring 2022
 **Create a table that includes the following directories and their usage:**
 #### Table1
 | Directory | Function |
-| ------------------- | ------------ | ------- | ----------- |
+| ------------------- | ------------ |
 | bin | Essential commands |
 | dev | Device files |
 | etc | System configuration files |
