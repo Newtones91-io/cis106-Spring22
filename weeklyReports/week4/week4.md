@@ -22,14 +22,14 @@ A summary of the presentation **_navigating the filesystem_**
 | ls | Used for displaying all the files inside a given directory. When no directory is specified, ls displays the files in the current working directory. | `ls + option + directory name` | Ex. `ls -lah ~/cis106-Spring22/cheatSheets/ ` |
 | tree |  list all the files and directories in a given directory in a nice tree like format | `tree + option + directory name` | Ex. `tree -l ~/Pictures/`|
 
-     #### Definitions of the following terms
-     _**File system**_ - The way files are stored and organized to simplify access to data.
-     _**Current directory**_ - The directory were you are at the moment. AKA the present working directory.
-     _**parent directory**_ - A particular directory that has other subdirectories.
-     _**the difference between your home directory and the home directory**_
-     _**pathname**_ - A path which indicates the location of a file in the file system. (Like an address)
-     _**relative path**_ - The location of a file starting from the current working directory or a directory that is located inside the current working directory.
-     _**absolute path**_ - The location of a file starting at the root of the file system. 
+#### Definitions of the following terms
+_**File system**_ - The way files are stored and organized to simplify access to data.
+_**Current directory**_ - The directory were you are at the moment. AKA the present working directory.
+_**parent directory**_ - A particular directory that has other subdirectories.
+_**the difference between your home directory and the home directory**_
+_**pathname**_ - A path which indicates the location of a file in the file system. (Like an address)
+_**relative path**_ - The location of a file starting from the current working directory or a directory that is located inside the current working directory.
+_**absolute path**_ - The location of a file starting at the root of the file system. 
 <br>
 
 **What is the right to repair movement and why does it matter?**
