@@ -35,8 +35,9 @@ semester: Spring 2022
 
 | Command |	What it does	| Syntax| 	Example |
 | -------| ------ | ------ | ----- |
-| pwd | Used for displaying the current working directory. | pwd | Ex. pwd | cd | Used for changing the current working directory. When no directory is given, cd changes the current working directory to the current user's home directory.| cd + destination | Ex. cd ~/Downloads/
-| ls | Used for displaying all the files inside a given directory. When no directory is specified, ls displays the files in the current working directory. | ls + destination | Ex. ls Music/
+| pwd | Used for displaying the current working directory. | pwd | Ex. pwd |
+|cd | Used for changing the current working directory. When no directory is given, cd changes the current working directory to the current user's home directory.| cd + destination | Ex. cd ~/Downloads/|
+| ls | Used for displaying all the files inside a given directory. When no directory is specified, ls displays the files in the current working directory. | ls + destination | Ex. ls Music/ |
 
 **Complete all the practice located in the presentation (including the challenge). Take a screenshot of your terminal after every practice.**
 
@@ -59,7 +60,7 @@ semester: Spring 2022
 ### Question 3 | The ls command 
 ![q3](q3.png)<br>
 
-### Question 4 | The tree command
+### Question 4 | The tree command 
 ![q4.1](q4.1.png)<br>
 ![q4.2](q4.2.png)<br>
 ### Question 5 | The exa command. A modern tool to replace ls
