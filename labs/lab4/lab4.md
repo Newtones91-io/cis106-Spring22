@@ -35,9 +35,9 @@ semester: Spring 2022
 
 | Command |	What it does	| Syntax| 	Example |
 | -------| ------ | ------ | ----- |
-| pwd | Used for displaying the current working directory. | pwd | Ex. pwd |
-|cd | Used for changing the current working directory. When no directory is given, cd changes the current working directory to the current user's home directory.| cd + destination | Ex. cd ~/Downloads/|
-| ls | Used for displaying all the files inside a given directory. When no directory is specified, ls displays the files in the current working directory. | ls + destination | Ex. ls Music/ |
+| pwd | Used for displaying the current working directory. | `pwd` | Ex. `pwd` |
+|cd | Used for changing the current working directory. When no directory is given, cd changes the current working directory to the current user's home directory.| `cd + destination` | Ex. `cd ~/Downloads/`|
+| ls | Used for displaying all the files inside a given directory. When no directory is specified, ls displays the files in the current working directory. | `ls + option + directory name` | Ex. `ls -la Music/` |
 
 **Complete all the practice located in the presentation (including the challenge). Take a screenshot of your terminal after every practice.**
 
