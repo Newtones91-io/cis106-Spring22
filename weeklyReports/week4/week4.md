@@ -10,26 +10,26 @@ Semester: Spring 2022
 
 1. A summary of the presentation **_navigating the filesystem_** 
 <br>
-    - The summary must include the following:
-        **A table of the commands in the presentation including what the command does and some examples**
+ - The summary must include the following:
+     **A table of the commands in the presentation including what the command does and some examples**
 
-        **Table**
+     **Table**
 
-        | Command |	What it does	| Syntax| 	Example |
-        | -------| ------ | ------ | ----- |
-        | pwd | Used for displaying the current working directory. | `pwd` | Ex. `pwd` |
-        |cd | Used for changing the current working directory. When no directory is given, cd changes the current working directory to the current user's home directory.| `cd + destination` | Ex. `cd ~/Downloads/` |
-        | ls | Used for displaying all the files inside a given directory. When no directory is specified, ls displays the files in the current working directory. | `ls + option + directory name` | Ex. `ls -lah ~/cis106-Spring22/cheatSheets/ ` |
-        | tree |  list all the files and directories in a given directory in a nice tree like format | `tree + option + directory name` | Ex. `tree -l ~/Pictures/`|
+     | Command |	What it does	| Syntax| 	Example |
+     | -------| ------ | ------ | ----- |
+     | pwd | Used for displaying the current working directory. | `pwd` | Ex. `pwd` |
+     |cd | Used for changing the current working directory. When no directory is given, cd changes the current working directory to the current user's home directory.| `cd + destination` | Ex. `cd ~/Downloads/` |
+     | ls | Used for displaying all the files inside a given directory. When no directory is specified, ls displays the files in the current working directory. | `ls + option + directory name` | Ex. `ls -lah ~/cis106-Spring22/cheatSheets/ ` |
+     | tree |  list all the files and directories in a given directory in a nice tree like format | `tree + option + directory name` | Ex. `tree -l ~/Pictures/`|
 
-        #### Definitions of the following terms
-        _**File system**_ - The way files are stored and organized to simplify access to data.
-        _**Current directory**_ - The directory were you are at the moment. AKA the present working directory.
-        _**parent directory**_ - A particular directory that has other subdirectories.
-        _**the difference between your home directory and the home directory**_
-        _**pathname**_ - A path which indicates the location of a file in the file system. (Like an address)
-        _**relative path**_ - The location of a file starting from the current working directory or a directory that is located inside the current working directory.
-        _**absolute path**_ - The location of a file starting at the root of the file system. 
+     #### Definitions of the following terms
+     _**File system**_ - The way files are stored and organized to simplify access to data.
+     _**Current directory**_ - The directory were you are at the moment. AKA the present working directory.
+     _**parent directory**_ - A particular directory that has other subdirectories.
+     _**the difference between your home directory and the home directory**_
+     _**pathname**_ - A path which indicates the location of a file in the file system. (Like an address)
+     _**relative path**_ - The location of a file starting from the current working directory or a directory that is located inside the current working directory.
+     _**absolute path**_ - The location of a file starting at the root of the file system. 
 <br>
 
 1. **What is the right to repair movement and why does it matter?**
