@@ -25,8 +25,8 @@ Brace expansion is not a wild card, but another feature of bash that allows you 
 
 **For example:**
 
-To create a whole directory structure in a single command type: `mkdir -p ~/Music/music/{jazz,rock}/{mp3files,music_videos,otherfiles}/new{1...3}`
-To create N number of files type:
+- To create a whole directory structure in a single command type: `mkdir -p ~/Music/music/{jazz,rock}/{mp3files,music_videos,otherfiles}/new{1...3}`
+- To create N number of files type:
 `touch website{1...7}.html`
-To remove multiple files type:
+- To remove multiple files type:
 `rm -r {dir2,dir3,file.txt,file2.txt}`
