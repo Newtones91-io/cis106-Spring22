@@ -7,6 +7,8 @@ semester: Spring 2022 Study Guide
 # Study Guide For Final Spring 2022
 ## List of commands and their usage
 <br>
+<br>
+
 # The DATE command
 ## Description
 It is used for creating directories
